@@ -1,0 +1,37 @@
+body {
+    background-color: #0E0B16;
+}
+.judul {
+    background-color: #D8D8D8;
+    width: 100%;
+    height: 8%;
+}
+.zuui {
+    width: 180;
+    float: left;
+}
+.home {
+    background: rgb(112, 196, 137);
+    width: 100px;
+    height: auto;
+    position: absolute;
+    right: 50;
+    top: 20;
+    color: white;
+	padding: 5px;
+	border: none;
+	box-shadow: 0px 1px 2px 0px black;
+}
+.isi {
+    background-color: #D8D8D8;
+    width: 100%;
+    height: auto;
+}
+.foto {
+    border: 0;
+    width: 150px;
+    height: auto;
+    margin-bottom:2px;
+    clear: both;
+    text-align: center;
+}
